@@ -20,6 +20,8 @@
 
 ## 📊 Estatísticas do GitHub  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaocastro95&show_icons=true&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaocastro95&layout=compact&theme=dark)
 
 📫 **Entre em contato:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-victor-oliveira-de-castro-902596202/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:joao_castro95@gmail.com)  
