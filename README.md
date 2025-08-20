@@ -1,7 +1,7 @@
 # Olá! 👋 Eu sou o João Castro.  
 
 🔹 Desenvolvedor [Full Stack | Backend | Data Science | Cloud computing]   
-🔹 Apaixonado por **desenvolvimento backend, inteligência artificial, automação e APIs**  
+🔹 Apaixonado por **desenvolvimento Fullstack, inteligência artificial, automação e APIs**  
 🔹 Procurando oportunidades.
 
 ## 🚀 Tecnologias e Ferramentas  
