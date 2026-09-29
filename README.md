@@ -30,8 +30,8 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ## 📌 Projetos em destaque
-[![GuideWay](https://github-readme-stats-one-alpha-16.vercel.app/api/pin/?username=joaocastro95&repo=Guideway&theme=dark&hide_border=true)](https://github.com/joaocastro95/Guideway)
-[![Job-Finder](https://github-readme-stats-one-alpha-16.vercel.app/api/pin/?username=joaocastro95&repo=Projeto-Job-Finder&theme=dark&hide_border=true)](https://github.com/joaocastro95/Projeto-Job-Finder)
+- **[GuideWay](https://github.com/joaocastro95/Guideway)** — app de navegação indoor acessível com beacons BLE, comandos de voz e gamificação (Fatec)
+- **[Projeto-Job-Finder](https://github.com/joaocastro95/Projeto-Job-Finder)** — app para cadastrar e acompanhar vagas de emprego (Node.js, Express, SQLite, Handlebars, Docker)
 
 ## 🎓 Formação
 - Análise e Desenvolvimento de Sistemas — Fatec Baixada Santista (2024–2026)
