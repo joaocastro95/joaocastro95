@@ -22,7 +22,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ## 📌 Projetos em destaque
-- **[GuideWay](https://github.com/joaocastro95/)** — app de navegação indoor acessível com beacons BLE, comandos de voz e gamificação (Fatec)
+- **[GuideWay](https://github.com/joaocastro95/Guideway)** — app de navegação indoor acessível com beacons BLE, comandos de voz e gamificação (Fatec)
 - **[Projeto-Job-Finder](https://github.com/joaocastro95/Projeto-Job-Finder)** — app para cadastrar e acompanhar vagas de emprego (Node.js, Express, SQLite, Handlebars, Docker)
 
 ## 🎓 Formação
@@ -32,8 +32,7 @@
 - Certificações AWS (2024)
 
 ## 📊 Estatísticas do GitHub
-<!-- Troque o domínio pelo seu próprio deploy do github-readme-stats na Vercel -->
-![GitHub stats](https://github-readme-stats-one-alpha-16.vercel.app/api?username=joaocastro95&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats-one-alpha-16.vercel.app/api?username=joaocastro95&show_icons=true&theme=dark&v=2)
 ![Top Langs](https://github-readme-stats-one-alpha-16.vercel.app/api/top-langs/?username=joaocastro95&layout=compact&theme=dark)
 
 ## 📫 Contato
